@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: ArtHTML
+PURPOSE OF PROJECT: Convert image to HTML Table
+VERSION or DATE: alpha
+HOW TO START THIS PROJECT: ArtHTML.main(String args[])
+AUTHORS: Antonio Bianco
 USER INSTRUCTIONS:
