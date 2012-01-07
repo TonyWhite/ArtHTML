@@ -1,6 +1,10 @@
 L'applicazione crea una tabella HTML che rappresenta l'immagine data in input
 
-Avviare l'applicazione con
+Avviare l'applicazione senza il ServerX
 java -jar ArtHTML.jar /home/tony/Desktop/image.gif
+
+Avviare l'applicazione con il ServerX
+java -jar ArtHTML.jar
+In questo caso il programma chiederà il percorso del file
 
 Verrà creata la corrispondente tabella HTML in /home/tony/Desktop/image.gif.html
