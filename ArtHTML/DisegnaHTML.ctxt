@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DisegnaHTML()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ DisegnaHTML\n
+comment1.params=path_immagine
+comment1.target=void\ apri(java.lang.String)
+comment2.params=intero
+comment2.target=java.lang.String\ converti_Hex_in_Dec(int)
+comment2.text=\n\ Converte\ un\ numero\ intero\ decimale\ in\ esadecimale\n
+comment3.params=
+comment3.target=void\ converti()
+comment3.text=\n\ Converte\ l'immagine\ in\ una\ tabella\ HTML\n
+numComments=4
