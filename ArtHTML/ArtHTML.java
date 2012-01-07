@@ -9,7 +9,7 @@ public class ArtHTML
     /**
      * Costruttore della classe ArtHTML
      */
-    public static void Main(String args[])
+    public static void main(String args[])
     {
         if (args.length==1)
         {
