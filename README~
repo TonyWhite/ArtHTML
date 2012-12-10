@@ -1,6 +1,0 @@
-L'applicazione crea una tabella HTML che rappresenta l'immagine data in input
-
-Avviare l'applicazione con
-java -jar ArtHTML.jar /home/tony/Desktop/image.gif
-
-Verrà creata la corrispondente tabella HTML in /home/tony/Desktop/image.gif.html
