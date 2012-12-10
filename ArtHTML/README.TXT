@@ -1,0 +1,6 @@
+PROJECT TITLE: ArtHTML
+PURPOSE OF PROJECT: Convert image to HTML Table
+VERSION or DATE: alpha
+HOW TO START THIS PROJECT: ArtHTML.main(String args[])
+AUTHORS: Antonio Bianco
+USER INSTRUCTIONS:
